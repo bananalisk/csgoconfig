@@ -8,4 +8,4 @@ Then type `exec autoexec` in the console!
 
 ### Extra: Smoke Practise Config added
 Start a private server and run `exec nade_practise` in the console.
-Run 'exec autoexec' when done to reset smoke-binds etc.
+Run `exec autoexec` again when done to reset smoke-binds etc.
