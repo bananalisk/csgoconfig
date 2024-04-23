@@ -1,11 +1,11 @@
 # csgoconfig
-The ultimate config for CS:GO
+The ultimate config for ~~CS:GO~~ CS2
 
 # How to install
-Just put the file in \Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg/
+Just put the config file(s) in \Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg/
 
-Then type "exec autoexec" in the console!
+Then type `exec autoexec` in the console!
 
 ### Extra: Smoke Practise Config added
-Start a private server and run 'exec nadepractise' in console.
-Run 'exec autoexec' when done to reset everything back
+Start a private server and run `exec nade_practise` in the console.
+Run 'exec autoexec' when done to reset smoke-binds etc.
